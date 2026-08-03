@@ -16,4 +16,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
+## Hash Table
+|  |
+| ------- |
+| [1796-second-largest-digit-in-a-string](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/1796-second-largest-digit-in-a-string) |
+## String
+|  |
+| ------- |
+| [1796-second-largest-digit-in-a-string](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/1796-second-largest-digit-in-a-string) |
 <!---LeetCode Topics End-->
