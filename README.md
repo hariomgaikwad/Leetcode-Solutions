@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0905-sort-array-by-parity](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2460-apply-operations-to-an-array](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/2460-apply-operations-to-an-array) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2460-apply-operations-to-an-array](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/2460-apply-operations-to-an-array) |
 ## Linked List
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0905-sort-array-by-parity](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Counting
 |  |
 | ------- |
