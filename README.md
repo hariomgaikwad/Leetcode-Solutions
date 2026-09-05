@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2460-apply-operations-to-an-array](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/2460-apply-operations-to-an-array) |
+| [2540-minimum-common-value](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/2540-minimum-common-value) |
 ## Two Pointers
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2460-apply-operations-to-an-array](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/2460-apply-operations-to-an-array) |
+| [2540-minimum-common-value](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/2540-minimum-common-value) |
 ## Linked List
 |  |
 | ------- |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1796-second-largest-digit-in-a-string](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/1796-second-largest-digit-in-a-string) |
+| [2540-minimum-common-value](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/2540-minimum-common-value) |
 ## String
 |  |
 | ------- |
@@ -121,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/0704-binary-search) |
+| [2540-minimum-common-value](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/2540-minimum-common-value) |
 ## Bit Manipulation
 |  |
 | ------- |
