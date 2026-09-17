@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/0268-missing-number) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
