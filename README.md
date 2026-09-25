@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
+| [0523-continuous-subarray-sum](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/0704-binary-search) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0523-continuous-subarray-sum](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [1796-second-largest-digit-in-a-string](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/1796-second-largest-digit-in-a-string) |
 | [2540-minimum-common-value](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/2540-minimum-common-value) |
 ## String
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0523-continuous-subarray-sum](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/2348-number-of-zero-filled-subarrays) |
 ## Binary Search
 |  |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0523-continuous-subarray-sum](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -213,4 +217,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
