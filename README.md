@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0205-isomorphic-strings](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [1021-remove-outermost-parentheses](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1796-second-largest-digit-in-a-string](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/1796-second-largest-digit-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/0383-ransom-note) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
