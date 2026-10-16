@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/0383-ransom-note) |
+| [0520-detect-capital](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/0520-detect-capital) |
 | [0796-rotate-string](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1796-second-largest-digit-in-a-string](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/1796-second-largest-digit-in-a-string) |
