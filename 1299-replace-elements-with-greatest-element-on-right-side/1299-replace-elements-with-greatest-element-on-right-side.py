@@ -12,4 +12,5 @@ class Solution:
             max_right = max(max_right, current)
 
         return arr
+
         
