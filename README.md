@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1929-concatenation-of-array](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/2348-number-of-zero-filled-subarrays) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/0796-rotate-string) |
 | [0819-most-common-word](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/0819-most-common-word) |
 | [1021-remove-outermost-parentheses](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1796-second-largest-digit-in-a-string](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/1796-second-largest-digit-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1903-largest-odd-number-in-string](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/1903-largest-odd-number-in-string) |
