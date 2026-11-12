@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/1089-duplicate-zeros) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2460-apply-operations-to-an-array](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2540-minimum-common-value](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/2540-minimum-common-value) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/hariomgaikwad/Leetcode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Hash Table
 |  |
 | ------- |
